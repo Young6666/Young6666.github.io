@@ -1,12 +1,11 @@
 ---
 layout: default
-title:  "Home"
 ---
 
 ## About me
-- Hello, I'm [Yeongwook Kim][cv] .
-- I am a Master's student in the **School of Computing** at **KAIST**, advised by [Prof. Jongse Park][jspark] .
-- I am currently working at the [Computer Architecture and Systems Lab][casys] .
+- Hello, I'm [Yeongwook Kim][cv].
+- I am a Master's student in the **School of Computing** at **KAIST**, advised by [Prof. Jongse Park][jspark].
+- I am currently working at the [Computer Architecture and Systems Lab][casys].
 - My primary research interests lie in **Computer Architecture and Systems** and **Processing-In-Memory Acceleration**.
 
 [cv]: https://Young6666.github.io
