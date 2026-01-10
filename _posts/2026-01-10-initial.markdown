@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: default
 title:  "Welcome!"
-date:   2016-01-10 21:03:36 +0530
-categories: Javascript NodeJS
 ---
 
 # Hello, I'm [Yeongwook Kim][cv].
