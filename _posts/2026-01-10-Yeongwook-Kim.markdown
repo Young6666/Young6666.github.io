@@ -16,6 +16,6 @@ date:   2026-01-10 09:55:00
 
 [ee]: https://ee.kaist.ac.kr/
 [cs]: https://cs.kaist.ac.kr/
-[cv]: ./files/cv_260110.pdf
+[cv]: ./contents/cv_260110.pdf
 [jspark]: https://jongse-park.github.io
 [casys]: https://casyslab.kaist.ac.kr
