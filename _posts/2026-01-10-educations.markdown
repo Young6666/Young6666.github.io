@@ -1,5 +1,7 @@
 ---
 layout: post
+title:  "Education"
+date:   2026-01-10 09:56:00
 ---
 
 ## Education
