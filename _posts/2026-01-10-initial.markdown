@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  "Welcome!"
+title:  "Home"
 ---
 
-# Hello, I'm [Yeongwook Kim][cv].
+## About me
+- Hello, I'm [Yeongwook Kim][cv].
 
 - I am a Master's student in the **School of Computing** at **KAIST**, advised by Prof. **[Prof. Jongse Park][jspark]**. 
 - I am currently working at the **[Computer Architecture and Systems Lab][casys]**.
