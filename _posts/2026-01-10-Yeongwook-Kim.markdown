@@ -11,9 +11,11 @@ date:   2026-01-10 09:55:00
 ## Education
 - **M.S. in School of Computing**, [KAIST][cs] (2026 - Present)
 - **B.S. in Electrical Engineering** (Double Major in School of Computing), [KAIST][ee] (2020.03 - 2026.02)
+## Contact
+- ywkim at casys.kaist.ac.kr
 
 [ee]: https://ee.kaist.ac.kr/
 [cs]: https://cs.kaist.ac.kr/
-[cv]: https://Young6666.github.io
+[cv]: ./files/cv_260110.pdf
 [jspark]: https://jongse-park.github.io
 [casys]: https://casyslab.kaist.ac.kr
