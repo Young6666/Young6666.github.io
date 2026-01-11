@@ -2,7 +2,8 @@
 layout: post
 date:   2026-01-10 09:55:00
 ---
-- Last updated on 10 JAN 26
+- Last updated on 11 JAN 26
+- [Curriculum Vitae][cv]
 ## About me
 - Hello, I'm [Yeongwook Kim][cv].
 - I am a Master's student in the **School of Computing** at **KAIST**, advised by [Prof. Jongse Park][jspark].
